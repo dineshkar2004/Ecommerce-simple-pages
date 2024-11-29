@@ -41,20 +41,20 @@ const products = [
      {
          name: "Wireless Earbuds",
          price: "₹799",
-         shop: "Tech Haven",
-         image: "/images/earbuds.jpg"
+         shop: "Poorvika",
+         image: "images/earbuds.jpg"
      },
      {
          name: "iphone16",
          price: "₹77,400",
-         shop: "Artisan Corner",
-         image: "/images/iphone16.jpg"
+         shop: "Viveks",
+         image: "images/iphone16.jpg"
      },
      {
          name: "Mi 20000 mAh 33 W Power Bank",
          price: "₹1,799",
          shop: "Thirumal mobiles & Co.",
-         image: "/images/mipowerbank.jpg"
+         image: "images/mipowerbank.jpg"
      }
  ];
  

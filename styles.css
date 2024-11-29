@@ -6,7 +6,7 @@ body {
     color: #333;
 }
 header {
-    background-color: #007bff;
+    background-color:#007bff;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -164,4 +164,27 @@ form button:hover {
 .product-shop {
     font-size: 0.9rem;
     color: #555;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.up{
+    padding:5px;
+    border: 2px solid black;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 1rem;
+    transition: transform 0.2s;
+}
+.up:hover{
+    transform: scale(1.05);
+}
+.pro{
+    display: flex;
+    justify-content: space-evenly;
 }
